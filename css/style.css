@@ -1,0 +1,136 @@
+/*navigation*/
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 19px 95px 42px 20px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-1{
+	display: inline-block;
+}
+.margin-li1{
+	margin: 20px 27px 43px 0;
+}
+.margin-li2{
+	margin: 20px 22px 43px 0;
+}
+.margin-li3{
+	margin: 20px 40px 43px 0;
+}
+.margin-li4{
+	display: inline-block;
+	margin: 11px 0 34px 0;
+	/*vertical-align: middle;*/
+}
+.acttive{
+	color: black;
+}
+.nav-color{
+	color: #A6ADB4;
+}
+.main-section{
+	background: #EBEDED;
+}
+/*section1*/
+.section{
+	width: 1160px;
+	margin: 0 auto;
+}
+.header1{
+	display: inline-block;
+	margin: 25px 0 40px 0;
+	font-size: 24px;
+	font-weight: 900;
+}
+.section-div1{
+	display: inline-block;
+	width: 360px;
+	height: 335px;
+    background: white;
+    vertical-align: middle;
+}
+.position1{
+	display: inline-block;
+	position: relative;
+}
+.position1-p1{
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	color: white;
+	font-size: 16;
+	font-weight: bold;
+}
+.img-right{
+	margin-bottom: 66px;
+}
+.div-p1{
+	width: 280px;
+	margin: 0 auto;
+}
+.img-p{
+	font-size: 13px;
+	color: #A6ADB4;
+}
+.section-div2{
+	display: inline-block;
+	width: 360px;
+	height: 335px;
+    background: white;
+    vertical-align: middle;
+ }
+ .margin{
+ 	margin-right: 40px;
+ }
+ /*section2*/
+.header2{
+	display: inline-block;
+	font-size: 24px;
+	margin: 58px 0 40px 0;
+	font-weight: bold;
+}
+.section-div2{
+	display: inline-block;
+	width: 760px;
+	height: 970px;
+	background:#EBEDED ;
+	vertical-align: top;
+	margin-right: 40px;
+}
+.img-div1{
+	position: relative;
+	margin-bottom: 40px;
+	margin-right: 40px;
+}
+.img-p2{
+	font-size: 16;
+	font-weight: bold;
+	position: absolute;
+	right: 19px;
+	top: 397.6px;
+	color: white;
+}
+.section-div3{
+	display: inline-block;
+	width: 360px;
+	height: 896px;
+	vertical-align: top;
+}
+.img-div3{
+	position: relative;
+	margin-bottom: 102px;
+}
+.elephant-p{
+	font-size: 16px;
+	font-weight: bold;
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	color: white;
+}
+.margin-photo{
+	margin-top: 40px;
+}
