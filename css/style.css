@@ -11,19 +11,25 @@
 .nav-1{
 	display: inline-block;
 }
+.ul-tag{
+	margin-bottom: 43px;
+}
 .margin-li1{
-	margin: 20px 27px 43px 0;
+	margin: 20px 27px 0 0;
+	vertical-align: middle;
 }
 .margin-li2{
-	margin: 20px 22px 43px 0;
+	margin: 20px 22px 0 0;
+	vertical-align: middle;
 }
 .margin-li3{
-	margin: 20px 40px 43px 0;
+	margin: 20px 40px 0 0;
+	vertical-align: middle;
 }
 .margin-li4{
 	display: inline-block;
-	margin: 11px 0 34px 0;
-	/*vertical-align: middle;*/
+	margin: 11px 0 0 0;
+	vertical-align: middle;
 }
 .acttive{
 	color: black;
@@ -33,6 +39,9 @@
 }
 .main-section{
 	background: #EBEDED;
+}
+.section1{
+	background: #fff;
 }
 /*section1*/
 .section{
